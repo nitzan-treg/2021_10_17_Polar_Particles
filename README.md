@@ -8,8 +8,10 @@ the particles were created with a particle simulation with pop force and axis fo
 <img alt = "gif" src="Images/Particle_Pre_Polar.gif">
 
 Afterward I would normalize the Position attribute, convert it to polar cordiantes, add the world and polar position togerher, while animating the world position. 
+
 <img alt = "gif" src="Images/Particle_Post_Polar.gif">
 
 Full Node Tree:
+
 <img src="Images/Node Tree.png">
 
