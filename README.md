@@ -14,10 +14,11 @@
 <!---------------------------------------------------------------------------------------------------------------------->
 
 #  Polar Particles
+
 This is an experiment with particles and polar coordinates, I tried to create an interesting animation by animating the U, V or Radius compounents of the Polar Coordinates
 
-<img width="47%" src="Images/torus_color_II_500.gif">
-<img width="47%" src="Images/RS_Render.png">
+<img  width="47%" src="Images/torus_color_II_500.gif">
+<img  width="47%" src="Images/RS_Render.png">
 
 the particles were created with a particle simulation with pop force and axis force to make them spin around the Y axis.
 
