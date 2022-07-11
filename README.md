@@ -15,6 +15,8 @@
 
 #  Polar Particles
 
+I made a tutorial that teaches how to create this system and how it works, you are welcome to check it on this [link](https://www.youtube.com/watch?v=9MPGec7JNyA&t=33s)
+
 This is an experiment with particles and polar coordinates, I tried to create an interesting animation by animating the U, V or Radius compounents of the Polar Coordinates
 
 <img width="500" src="Images/torus_color_II_500.gif">
